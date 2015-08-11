@@ -24,7 +24,10 @@ int main()
 	string line;
 	if (fichier){
 		while (getline(fichier, line)){
-			Instance instance = Instance(line);
+			istringstream iss(line);
+			string mot;
+			std::getline(iss, mot, ',');
+			Instance instance = Instance(mot);
 			instances.push_back(instance);
 		}
 		fichier.close();
@@ -40,7 +43,7 @@ int main()
 	cout << "Enter your prestige :";
 	cin >> prestige;
 	cout << endl;
-	cout << "Enter your technique :";
+	cout << "Enter your proficiency :";
 	cin >> technique;
 	cout << endl;
 	cout << "Computing entries...";
@@ -152,7 +155,7 @@ int main()
 	}
 
 	cout << endl;
-	cout << "It's OK ? (type y or n)";
-	cin >> answer;
-
+	cout << endl;
+	system("pause");
+	return 0;
 }

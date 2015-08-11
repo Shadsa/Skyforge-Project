@@ -1,30 +1,30 @@
-Factory 501
-Port Naori
-Okki Island
-Saiban Archipelago
-Kyris
-Ardos Monastery
-Darnic Village
-Lanber Catacombs
-Thais Temple
-Facility 902
-Thetin Rift
-Cronnel Platforms
-Ignum Monastery
-Syblian Heights
-Tau Experimental Station
-Alakur Island
-Thandi Drilling Station
-Aristel's Farm
-Icy Winds Canyon
-Taron Power Station
-Avesten Tower
-Port Usuni
-Thorneus's Camp
-Artonis Hollow
-Palon Prototype Plant
-Fort Krigg
-Kyros Caves
-Borru Catacombs
-Donholk Glacier
-Nerion's Castle
+Factory 501,Easy,2,Low	
+Port Naori,Easy,3,Efficient	
+Okki Island,Medium,4,Efficient	
+Saiban Archipelago,Medium,3,Medium
+Kyris,Easy,3,Efficient
+Ardos Monastery,Medium,3,Medium
+Darnic Village,Medium,2,Low
+Lanber Catacombs,Hard,3,Medium
+Thais Temple,Medium,3,Medium
+Facility 902,Hard,2,Low
+Thetin Rift,Hard,1,Low
+Cronnel Platforms,Medium,2,Low
+Ignum Monastery,Medium,3,Efficient
+Syblian Heights,Easy,2,Medium
+Tau Experimental Station,Medium,2,Medium
+Alakur Island,Hard,3,Efficient
+Thandi Drilling Station,Hard,2,Medium
+Aristel's Farm,Hard,0,Low
+Icy Winds Canyon,Easy,3,Efficient
+Taron Power Station,Medium,1,Low
+Avesten Tower,Hard,1,Medium
+Port Usuni,Hard,3,Efficient
+Thorneus's Camp,Medium,3,Efficient
+Artonis Hollow,No-DATA
+Palon Prototype Plant,Medium,3,Low
+Fort Krigg,Medium,2,Low
+Kyros Caves,No-Data
+Borru Catacombs,No-Data
+Donholk Glacier,No-Data
+Nerion's Castle,No-Data

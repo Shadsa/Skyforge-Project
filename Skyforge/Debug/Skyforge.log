@@ -1,17 +1,13 @@
-﻿Build started 8/10/2015 4:34:59 PM.
+﻿Build started 11/08/2015 17:19:29.
      1>Project "D:\Travail\Skyforge\Skyforge\Skyforge.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         U:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt Instance.cpp main.cpp
+         U:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>d:\travail\skyforge\skyforge\main.cpp(66): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\travail\skyforge\skyforge\main.cpp(68): warning C4018: '<=' : signed/unsigned mismatch
-     1>d:\travail\skyforge\skyforge\main.cpp(79): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\travail\skyforge\skyforge\main.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\travail\skyforge\skyforge\main.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\travail\skyforge\skyforge\main.cpp(71): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\travail\skyforge\skyforge\main.cpp(82): warning C4018: '<' : signed/unsigned mismatch
      1>d:\travail\skyforge\skyforge\main.cpp(99): warning C4018: '<' : signed/unsigned mismatch
-         Instance.cpp
-     1>d:\travail\skyforge\skyforge\instance.cpp(21): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\travail\skyforge\skyforge\instance.cpp(47): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
+     1>d:\travail\skyforge\skyforge\main.cpp(102): warning C4018: '<' : signed/unsigned mismatch
        Link:
          U:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Travail\Skyforge\Debug\Skyforge.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Travail\Skyforge\Debug\Skyforge.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Travail\Skyforge\Debug\Skyforge.lib" /MACHINE:X86 Debug\Instance.obj
          Debug\main.obj
@@ -22,4 +18,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.12
+Time Elapsed 00:00:01.70
